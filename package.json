@@ -6,6 +6,7 @@
         "start": "node app.js"
     },
     "dependencies": {
+        "@google/genai": "^2.7.0",
         "@google/generative-ai": "^0.24.1",
         "@slack/bolt": "^4.7.3",
         "dotenv": "^17.4.2"
